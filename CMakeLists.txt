@@ -24,10 +24,10 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 # Include sub-projects.
 
 # Libs
-#add_subdirectory("Libs")
+add_subdirectory("Libs")
 
 # Servers
-#add_subdirectory("Server")
+add_subdirectory("Servers")
 
 # Clients
-#add_subdirectory("Clients")
+add_subdirectory("Clients")

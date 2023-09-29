@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SockCL-KeyValue" type="CompoundRunConfigurationType">
+    <toRun name="IB_KeyValue" targetId="CMakeBuildProfile:arm64-osx-debug-config - osx-debug-build" type="CMakeRunConfiguration" />
+    <toRun name="IB_SockCL" targetId="CMakeBuildProfile:arm64-osx-debug-config - osx-debug-build" type="CMakeRunConfiguration" />
+    <method v="2" />
+  </configuration>
+</component>
